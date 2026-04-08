@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/stroke-ml-comparison.git
+git clone https://github.com/Horvli/stroke-ml.git
 
 2. Install dependencies:
 pip install -r requirements.txt
