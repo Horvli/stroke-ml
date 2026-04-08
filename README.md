@@ -1,6 +1,6 @@
 # Stroke Prediction – Machine Learning Comparison
 
-This project applies and compares multiple machine learning models for stroke prediction using a medical dataset. The models evaluated include Logistic Regression, Random Forest, and Gradient Boosting.
+This project compares multiple machine learning models for stroke prediction using a medical dataset. The models evaluated include Logistic Regression, Random Forest, and Gradient Boosting.
 
 ## Dataset
 
@@ -23,7 +23,7 @@ stroke_prediction_analysis.ipynb
 
 ## Project Structure
 
-- notebook.ipynb → Full implementation (EDA, preprocessing, modeling, evaluation)
+- stroke_prediction_analysis.ipynb → Full implementation (EDA, preprocessing, modeling, evaluation)
 - requirements.txt → Required Python libraries
 - README.md → Instructions
 
