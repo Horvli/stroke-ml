@@ -19,7 +19,7 @@ pip install -r requirements.txt
 3. Download the dataset from Kaggle and place it in the project folder.
 
 4. Run the notebook:
-notebook.ipynb
+stroke_prediction_analysis.ipynb
 
 ## Project Structure
 
